@@ -1,22 +1,46 @@
-<h1 align="center">Hi 👋, I'm jae young choi</h1>
-<h3 align="center">I'm A developer who dreams of conquering Flutter completely</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeyoung1010&label=Profile%20views&color=0e75b6&style=flat" alt="jaeyoung1010" /> </p>
+# 안녕하세요, 최재영입니다 👋
 
-- 🌱 I’m currently learning **Flutter and Dart**
+### AI와 함께 아이디어를 빠르게 현실로 만드는 개발자를 꿈꾸는 대학생입니다.
 
-- ⚡ Fun fact **I'm still a Junior developer**
+Codex와 Claude Code를 주력 도구로 활용하며, 바이브 코딩과 하네스 엔지니어링을 배우고 있습니다.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/jaeyonug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaeyonug" height="30" width="40" /></a>
+</div>
+
+<br />
+
+## About me
+
+- AI 에이전트와 함께 더 빠르고 탄탄하게 소프트웨어를 만드는 방법을 탐구합니다.
+- 바이브 코딩으로 아이디어를 빠르게 프로토타입으로 구현합니다.
+- 하네스 엔지니어링을 통해 AI가 안정적으로 일할 수 있는 개발 환경을 설계하는 법을 배웁니다.
+- 직접 만들고, 실험하고, 개선하며 성장합니다.
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+## What I'm building
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeyoung1010&show_icons=true&locale=en&layout=compact" alt="jaeyoung1010" /></p>
+AI 코딩 도구를 활용해 아이디어를 빠르게 구현하고, 반복 가능한 개발 흐름을 만드는 방법을 실험하고 있습니다.  
+좋은 프롬프트, 명확한 작업 환경, 그리고 검증 가능한 결과물을 연결하는 개발자가 되는 것이 목표입니다.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeyoung1010&show_icons=true&locale=en" alt="jaeyoung1010" /></p>
+## Goal
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeyoung1010&" alt="jaeyoung1010" /></p>
+> AI를 잘 활용하는 것을 넘어, AI가 더 잘 일할 수 있는 환경을 만드는 개발자로 성장합니다.
+
+<br />
+
+<div align="center">
+
+_Thanks for visiting!_
+
+</div>
